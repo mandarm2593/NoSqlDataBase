@@ -1,0 +1,4 @@
+﻿  TestExecutivecpp.cpp
+c:\users\mandar\desktop\nosqldatabase\project1kv\strhelper.h(46): warning C4172: returning address of local variable or temporary
+  TestExecutive.vcxproj -> C:\Users\Mandar\Desktop\NoSqlDataBase\Project1KV\Debug\TestExecutive.exe
+  TestExecutive.vcxproj -> C:\Users\Mandar\Desktop\NoSqlDataBase\Project1KV\Debug\TestExecutive.pdb (Partial PDB)

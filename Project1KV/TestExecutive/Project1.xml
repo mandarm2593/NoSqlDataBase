@@ -1,0 +1,100 @@
+
+  <NoSqlDb>
+    <key>
+      Mandar
+    </key>
+    <Name>
+      Mandar
+    </Name>
+    <Category>
+       Graduate
+    </Category>
+    <Data>
+      Computer Engineering
+    </Data>
+    <Time Date>
+      Thu Feb  9 00:16:49 2017
+
+    </Time Date>
+    <Children>
+      Shantanu
+      Tom
+    </Children>
+    <key>
+      Mark
+    </key>
+    <Name>
+      Mark
+    </Name>
+    <Category>
+      Undergraduate
+    </Category>
+    <Data>
+      Computer Engineering
+    </Data>
+    <Time Date>
+      Thu Feb  9 00:16:49 2017
+
+    </Time Date>
+    <Children>
+      John
+    </Children>
+    <key>
+      Tom
+    </key>
+    <Name>
+      Tom
+    </Name>
+    <Category>
+      Graduate
+    </Category>
+    <Data>
+      Mechanical Engg
+    </Data>
+    <Time Date>
+      Thu Feb  9 00:16:49 2017
+
+    </Time Date>
+    <Children>
+      Mark
+    </Children>
+    <key>
+      Andrew
+    </key>
+    <Name>
+      Andrew
+    </Name>
+    <Category>
+      Undergraduate
+    </Category>
+    <Data>
+      Electrical Engineering
+    </Data>
+    <Time Date>
+      Thu Feb  9 00:16:49 2017
+
+    </Time Date>
+    <Children>
+      John
+      Mark
+    </Children>
+    <key>
+      Jane
+    </key>
+    <Name>
+      Jane
+    </Name>
+    <Category>
+      Graduate
+    </Category>
+    <Data>
+      Computer Engineering
+    </Data>
+    <Time Date>
+      Thu Feb  9 00:16:49 2017
+
+    </Time Date>
+    <Children>
+      Mandar
+    </Children>
+  </NoSqlDb>
